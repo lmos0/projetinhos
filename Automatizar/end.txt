@@ -1,0 +1,312 @@
+CEP 38405370 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Alto Umuarama
+CEP 38408106 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Santa Mônica
+CEP 71910180 encontrado:
+UF: DF
+Cidade: Brasília
+Bairro: Norte (Águas Claras)
+CEP 38413156 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Planalto
+CEP 38412312 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim das Palmeiras
+CEP 38413315 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Chácaras Tubalina e Quartel
+CEP 38402136 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Minas Gerais
+CEP 38412158 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Cidade Jardim
+CEP 38408016 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Saraiva
+CEP 38408050 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Saraiva
+CEP 38412622 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Nova Uberlândia
+CEP 38400204 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Fundinho
+CEP 38411133 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Morada da Colina
+CEP 14783094 encontrado:
+UF: SP
+Cidade: Barretos
+Bairro: Fortaleza
+CEP 38414706 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Europa
+CEP 38410665 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Botânico
+CEP 38411106 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Morada da Colina
+CEP 38408076 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Santa Mônica
+CEP 38400192 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Fundinho
+CEP 39945000 encontrado:
+UF: MG
+Cidade: Palmópolis
+Bairro: 
+CEP 38411336 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Colina
+CEP 38411159 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Morada da Colina
+CEP 38411201 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Karaíba
+CEP 38401253 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Santa Rosa
+CEP 38400646 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Brasil
+CEP 38411159 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Morada da Colina
+CEP 38411090 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Patrimônio
+CEP 52020025 encontrado:
+UF: PE
+Cidade: Recife
+Bairro: Espinheiro
+CEP 11380310 encontrado:
+UF: SP
+Cidade: São Vicente
+Bairro: Jardim Independência
+CEP 25964110 encontrado:
+UF: RJ
+Cidade: Teresópolis
+Bairro: Taumaturgo
+CEP 38500000 encontrado:
+UF: MG
+Cidade: Monte Carmelo
+Bairro: 
+CEP 38408050 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Saraiva
+CEP 58036130 encontrado:
+UF: PB
+Cidade: João Pessoa
+Bairro: Aeroclube
+CEP 38400192 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Fundinho
+CEP 38413677 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Panorama
+CEP 38408050 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Saraiva
+CEP 38410665 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Botânico
+CEP 38405036 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Tibery
+CEP 38412070 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Tubalina
+CEP 38400288 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Tabajaras
+CEP 38408064 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Santa Mônica
+CEP 38413195 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Planalto
+CEP 38410665 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Botânico
+CEP 38400074 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Lidice
+CEP 38401774 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Santa Rosa
+CEP 38071180 encontrado:
+UF: MG
+Cidade: Uberaba
+Bairro: Vila Arquelau
+CEP 13148254 encontrado:
+UF: SP
+Cidade: Paulínia
+Bairro: Betel
+CEP 38411210 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Karaíba
+CEP 38412326 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Holanda
+CEP 38406064 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Aclimação
+CEP 38402293 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Marta Helena
+CEP 12949766 encontrado:
+UF: SP
+Cidade: Atibaia
+Bairro: Recanto dos Palmares
+CEP 75682064 encontrado:
+UF: GO
+Cidade: Caldas Novas
+Bairro: Estância Itaguaí
+CEP 38414652 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Europa
+CEP 38411198 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Karaíba
+CEP 38412036 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Tubalina
+CEP 69900321 encontrado:
+UF: AC
+Cidade: Rio Branco
+Bairro: Dom Giocondo
+CEP 38401036 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Presidente Roosevelt
+CEP 38190000 encontrado:
+UF: MG
+Cidade: Sacramento
+Bairro: 
+CEP 38411159 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Morada da Colina
+CEP 38400376 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Martins
+CEP 58840000 encontrado:
+UF: PB
+Cidade: Pombal
+Bairro: 
+CEP 38400084 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Centro
+CEP 38408092 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Santa Mônica
+CEP 05742120 encontrado:
+UF: SP
+Cidade: São Paulo
+Bairro: Jardim Taboão
+CEP 38412641 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Nova Uberlândia
+CEP 38408268 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Segismundo Pereira
+CEP 38411178 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Jardim Karaíba
+CEP 38401748 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Santa Rosa
+CEP 28073557 encontrado:
+UF: RJ
+Cidade: Campos dos Goytacazes
+Bairro: Parque Boa Vista
+CEP 38415075 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Taiaman
+CEP 38410312 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Laranjeiras
+CEP 38412641 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Nova Uberlândia
+CEP 38413171 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Planalto
+CEP 38402247 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Marta Helena
+CEP 38415045 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Taiaman
+CEP 93537190 encontrado:
+UF: RS
+Cidade: Novo Hamburgo
+Bairro: São Jorge
+CEP 38411142 encontrado:
+UF: MG
+Cidade: Uberlândia
+Bairro: Morada da Colina
